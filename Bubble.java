@@ -3,10 +3,10 @@
 // Your code here
 // Delete these 4 lines of comments
 
-class JavaATMWithObjects {
+class B {
     public static void main(String[] args) {
 
-        System.out.println("Mario Kart!");
+        System.out.println("Let's Bubble it up!");
         
     }
 }
